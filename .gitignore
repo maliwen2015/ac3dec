@@ -1,0 +1,25 @@
+# Build output
+/build/
+/out/
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.pdb
+
+# Editor / OS noise
+*.swp
+*.user
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.ac3 binary
+*.eac3 binary
+*.wav binary
+*.pcm binary

@@ -1,0 +1,10 @@
+The Dolby E module of this project (dolby_e.h, dolby_e_compat.h,
+src/dolby_e.c, src/dolby_e_parse.c and src/dolby_e_core.inc) is derived from
+the FFmpeg "dolby_e" decoder and is licensed under the GNU Lesser General
+Public License, version 2.1 or later.
+
+The full license text is available at:
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+The rest of the project (AC-3 / E-AC-3 decoder and tools) remains under the
+BSD 2-Clause license; see COPYING.
